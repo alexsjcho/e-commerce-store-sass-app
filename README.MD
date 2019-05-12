@@ -1,0 +1,5 @@
+# TECHNOLOGIES USED
+
+1. Sass
+2. HTML
+3. CSS (CSS Grid)
