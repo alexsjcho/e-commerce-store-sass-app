@@ -2,6 +2,10 @@
 @import "abstracts/mixins";
 @import "base/base";
 
+//Layouts
 @import "layout/header";
+@import "layout/navigation";
+
+//Components
 @import "components/logo";
 @import "components/heading";
